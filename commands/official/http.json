@@ -1,0 +1,5 @@
+{
+  "name": "HTTP",
+  "repository": "git@github.com:podder-ai/podder-task-foundation-commands-http.git",
+  "descriptions": "Build HTTP API interface"
+}
